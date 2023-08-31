@@ -1,0 +1,3 @@
+1.Basic checks are index,shape,dtypes,columns,head,tail, and info.
+
+2.Pandas DataFrame is two-dimensional size-mutable, potentially heterogeneou tabular data structure with labeled axes (rows and columns). 
